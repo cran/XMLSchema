@@ -1,7 +1,7 @@
-afefb5d5ccf9c82c1630b622b0083813 *Changes
-e68d20d73997751add5479f0c1da9e29 *DESCRIPTION
+74ad9ec5566d7166df3cba6f94cf6e95 *Changes
+80d7dd95091e98ab9cafa9ed96f760a4 *DESCRIPTION
 4bebf3dbcbf2703200c5e0b9e68bb121 *NAMESPACE
-87cfbd729319ee5112f658bd44a83f52 *R/ClassDefs.S
+02c67a676b5b1eb079e00b9d5932c4de *R/ClassDefs.S
 05ddf9bf07341afc8ce8d819f301a1ea *R/SOAPTypes.S
 7d9c666033d1e7f6f0e584264062b21d *R/array.S
 e6f8be51fd859a11ed5e04a1b7089560 *R/basicTypes.R
@@ -10,11 +10,11 @@ b5efef3a10cb5b366519c44f39107094 *R/createConverters.R
 335bcd9852a1273b008f187b9c8eaf5a *R/enums.R
 ed92ad75b8ad5ddd397ca58a253d9adc *R/fixTypeNames.R
 7fe95eefb876672a899013a311e52f76 *R/gatherNamespaceDefs.R
-af0a3a24c61500aabc3fbbd127811128 *R/genCode.R
+609c2044afca1189700c09b0472db810 *R/genCode.R
 0315a8078e76a16b47bfe191ecd2420d *R/makeSchemaCollection.R
 b4f246df10cc32aa0d7270fbf4f98224 *R/parseSchema.R
-d6c05da449af969da63846f76c151e1f *R/processSchemaTypes.R
-a783876d68617d55f8574c9059cee4af *R/resolve.R
+3babed39f6b13eaa03b983fe4506caa2 *R/processSchemaTypes.R
+61002c6d3aa595aff48ddd67c1cd59c9 *R/resolve.R
 c90a3ae25eadbab6bdd541c077202724 *R/restriction.R
 209c34a765c7fa223ada75b2a34f0c24 *R/schema.R
 df421b5858695e783f5d561399395ec6 *R/selfRefs.R

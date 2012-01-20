@@ -1,3 +1,10 @@
+0.7-0
+ 
+  *    Compute default values for slots of new class from schema elements to handle
+       sequences and optional values (i.e. count containing 0).
+
+  *    Compute name for <any/> element as any, not NA.
+
 0.6-1
 
   *    Support for recognizing types or elements in a schema come from XML schema types themselves,
